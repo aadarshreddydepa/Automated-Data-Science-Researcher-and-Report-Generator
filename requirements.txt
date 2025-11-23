@@ -1,0 +1,8 @@
+crewai
+crewai[tools]
+google-genai
+pandas
+matplotlib
+scikit-learn
+python-dotenv
+seaborn
